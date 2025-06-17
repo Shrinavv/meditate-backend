@@ -1,0 +1,18 @@
+{
+  "name": "meditate_and_code",
+  "version": "1.0.0",
+  "description": "Backend for meditate and code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Backend",
+    "Meditate",
+    "and",
+    "Code"
+  ],
+  "author": "Shriyansh Bole",
+  "license": "ISC"
+}
